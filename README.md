@@ -3,11 +3,12 @@
 ## Informações do Projeto
 
 | Disciplina | Curso | Professor |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- |
 | `DYNAMIC PROGRAMMING 2025/2` | `ENGENHARIA DE SOFTWARE` | `Marcelo Amorim` |
+
 ---
 
-## 👥 Integrantes
+## 👥 Integrantes 2ESR
 
 - **RM 558385** — Alexia Ramalho
 - **RM 559008** — Hellen Silva
@@ -16,9 +17,9 @@
 
 ---
 
-## Objetivo do Projeto
+## 🎯 Objetivo do Projeto
 
-Implementar uma solução para o "Jogo das Pedras", um jogo de estratégia para dois jogadores. A missão é desenvolver uma função em Python capaz de determinar se o jogador da vez possui uma estratégia vencedora para um dado número de pedras, assumindo que ambos os jogadores jogam de forma ótima.
+Este projeto tem como objetivo implementar uma solução para o "Jogo das Pedras", um jogo de estratégia para dois jogadores. A missão é desenvolver uma função em Python capaz de determinar se o jogador da vez possui uma estratégia vencedora para um dado número de pedras, assumindo que ambos os jogadores jogam de forma ótima.
 
 A solução foi desenvolvida utilizando conceitos de recursão e programação dinâmica, com duas abordagens distintas, conforme solicitado.
 
@@ -46,4 +47,3 @@ Esta versão otimizada utiliza **memoização** para resolver o problema de perf
 2.  Clone este repositório para a sua máquina local.
 3.  Abra os arquivos de código (`.py` ou `.ipynb`) para ver as implementações.
 4.  Execute o arquivo principal pelo terminal para ver os testes.
-
