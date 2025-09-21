@@ -2,10 +2,9 @@
 
 ## Informações do Projeto
 
-| Disciplina | Curso | Professor | Data de Entrega |
+| Disciplina | Curso | Professor |
 | :--- | :--- | :--- | :--- |
-| `DYNAMIC PROGRAMMING 2025/2` | `ENGENHARIA DE SOFTWARE` | `Marcelo Amorim` | `22/09/2025` |
-
+| `DYNAMIC PROGRAMMING 2025/2` | `ENGENHARIA DE SOFTWARE` | `Marcelo Amorim` |
 ---
 
 ## 👥 Integrantes
